@@ -1,1 +1,1 @@
-# panda.numpy.py
+# panda_numpy
